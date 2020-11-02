@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944315627895",
+    "firebase_url": "https://workloadallocation.firebaseio.com",
+    "project_id": "workloadallocation",
+    "storage_bucket": "workloadallocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944315627895:android:05625bb1fd015598c64972",
+        "android_client_info": {
+          "package_name": "com.njagindungo.workload_allocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944315627895-jk6ppe1nju7fn6qq14j531qr3414j8gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Z4wYzrLg0BQlMWFelhf6Xtd7966jlLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944315627895-jk6ppe1nju7fn6qq14j531qr3414j8gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
